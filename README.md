@@ -37,8 +37,9 @@ it compatible with the repository's generator. I contributed that work in
 and contributed a few more times throughout the year to fix bugs I found.
 
 Shortly afterward, I changed jobs and branched out from working in full Visual
-Studio. Visual Studio Code was becoming a tool I used for editing other
-languages, and it shipped with Solarized as a default theme!
+Studio. [Visual Studio Code](https://github.com/microsoft/vscode) was becoming a
+tool I used for editing other languages, and it shipped with Solarized as a default
+theme!
 
 Since then, I have regularly used other tools with built-in or community-maintained
 Solarized variations. But as more development tools become available, I keep
