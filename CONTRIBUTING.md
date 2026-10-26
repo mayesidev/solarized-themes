@@ -16,20 +16,20 @@ as I am doing with this repository.
   clearly named light and dark theme files.
 - **Use the original Solarized palette.** Follow the color values and light/dark
   usage guidance in [Ethan Schoonover's original specification](https://ethanschoonover.com/solarized/).
-- **Document compatibility and installation.** Identify the application and
-  versions you tested, explain how to install the theme and select each mode,
-  and describe any known limitations.
+- **Document compatibility and installation.** Identify the application, explain
+  how to install the theme and select each mode, and describe known limitations.
+  Include version or operating-system details when they affect compatibility.
 - **Preserve attribution.** Link to the sources of any theme files you adapt and
   retain their applicable license and copyright notices.
 
 ## Issues and pull requests
 
-For bug reports, include the application version, operating system, affected mode,
-and steps to reproduce the problem. Screenshots are helpful for visual issues.
+For bug reports, include the affected mode and steps to reproduce the problem.
+Include the application version and operating system when relevant to reproduction.
+Screenshots are helpful for visual issues.
 
 Keep pull requests focused. Test theme changes in both modes in the target
 application, and describe what you checked and anything you could not verify.
-Include the tested application version and operating system.
 
 Use [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
 for commit messages and pull request titles. Identify compatibility breaks, such
