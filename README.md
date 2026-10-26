@@ -8,6 +8,8 @@ not been updated in a long time. I started this repository to maintain and share
 versions for applications I use that do not have their own native port, or where
 existing ports are incomplete.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
 ## My history with Solarized
 
 Over 12 years ago, around early 2014, I was finishing college and entering the
@@ -42,5 +44,3 @@ Since then, I have regularly used other tools with built-in or community-maintai
 Solarized variations. But as more development tools become available, I keep
 finding incomplete theme ports. This repository is my place to track and maintain
 variations for the tools I use that do not already have a suitable port.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
