@@ -8,4 +8,3 @@ Original Solarized theme files from Visual Studio Code:
 Upstream copyright notices ([MIT terms](../LICENSE)):
 
 - Copyright (c) 2015 - present Microsoft Corporation
-- Copyright (c) 2015 Colorsublime.com
