@@ -55,5 +55,5 @@ troubleshoot each port in its target application. A single global linter or
 formatter is unlikely to cover all of those formats, so validation and tooling
 will be revisited as the collection grows.
 
-Commit standards and contribution guidelines will follow as the repository takes
-shape.
+See the [contribution guide](CONTRIBUTING.md) for theme requirements, commit
+conventions, and how to report issues or propose changes.
