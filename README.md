@@ -45,15 +45,7 @@ variations for the tools I use that do not already have a suitable port.
 
 ## Building out this repository
 
-This repository is just getting started. Application-specific themes and their
-maintenance approach will be added as I identify the tools and versions to
-support.
+This repository is just getting started. Themes will be added as I identify the
+tools and versions to support, with each port tested in its target application.
 
-Applications use a wide range of configuration formats, and theme behavior often
-cannot be fully verified outside the application itself. I expect to iterate and
-troubleshoot each port in its target application. A single global linter or
-formatter is unlikely to cover all of those formats, so validation and tooling
-will be revisited as the collection grows.
-
-See the [contribution guide](CONTRIBUTING.md) for theme requirements, commit
-conventions, and how to report issues or propose changes.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
