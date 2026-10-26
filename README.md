@@ -15,9 +15,10 @@ world of professional software development. I wanted a theme that was easy on th
 eyes without being strictly white text on a black background or black text on a
 white background.
 
-I had sporadically used f.lux on my personal machines and enjoyed the softer yellow
-tones it applied. But I did not enjoy having to turn it on and off globally when
-using my PC for content where color mattered, such as games and movies.
+I had sporadically used [f.lux](https://justgetflux.com/) on my personal machines
+and enjoyed the softer yellow tones it applied. But I did not enjoy having to turn
+it on and off globally when using my PC for content where color mattered, such as
+games and movies.
 
 That search led me to Solarized. The configurations in the original repository
 did not support the newer version of Visual Studio I was using for work. Luckily,
