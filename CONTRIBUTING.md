@@ -47,6 +47,11 @@ existing Solarized support. The maintenance limits above still apply.
 Keep each pull request focused on one concern. Explain what changed, why it is
 needed, and how you verified it. Link any related issues.
 
+Changes to `main` must go through a pull request, and all review conversations
+must be resolved before merging. Force pushes and deletion of `main` are blocked.
+These rules apply to administrators too. There are currently no required
+approving reviews or automated status checks.
+
 For theme changes, install or import the files in the target application and check
 both light and dark modes. Include the tested application version and operating
 system, the steps you checked, and any behavior you could not verify. Add
