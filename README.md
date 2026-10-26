@@ -43,9 +43,4 @@ Solarized variations. But as more development tools become available, I keep
 finding incomplete theme ports. This repository is my place to track and maintain
 variations for the tools I use that do not already have a suitable port.
 
-## Building out this repository
-
-This repository is just getting started. Themes will be added as I identify the
-tools and versions to support, with each port tested in its target application.
-
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
